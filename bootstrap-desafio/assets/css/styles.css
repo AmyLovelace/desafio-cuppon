@@ -6,14 +6,23 @@
     font-weight: 500;
     letter-spacing: 0.05em;
 }
+
+.tarjeta{
+    font-family: 'Roboto';
+    color: #707070;  
+}
+.title{
+    color: #212529;
+}
+
 .titulo-formulario{
     text-align: center;
     color: #fff;
     font-size: larger;
     font-family: 'Roboto';
-
-    
+    font-weight: 500;  
 }
+
 
 .boton button{
     color:#212529 ;
