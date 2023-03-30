@@ -1,4 +1,6 @@
-
+.body{
+    
+}
 
 .container-fluid a{
     font-weight: 500;
@@ -14,7 +16,9 @@
     color:#212529 ;
     font-weight: 700;
 }
-
+.cuppon{
+    font-weight: 800;
+}
 
 
 
