@@ -28,7 +28,13 @@
 .cuppon{
     font-weight: 800;
 }
-
+.precio-verde{
+    color: #28a745;
+    font-size:larger;
+}
+.precio-gris{
+    font-size:medium;
+}
 
 
 
