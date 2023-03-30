@@ -10,9 +10,9 @@
     font-size: larger;
 }
 
-.boton{
-
-    font-weight: 600;
+.boton button{
+    color:#212529 ;
+    font-weight: 700;
 }
 
 
