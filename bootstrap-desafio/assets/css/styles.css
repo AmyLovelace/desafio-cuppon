@@ -36,6 +36,8 @@
 .boton button{
     color:#212529 ;
     font-weight: 500;
+    background-color:#F8F9FA ;
+    border-color:#DDDDDD ;
 }
 .cuppon{
     font-weight: 800;
