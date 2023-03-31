@@ -1,5 +1,7 @@
 *{
     font-family: 'Roboto';
+    margin: 0;
+    padding: 0;
 }
 .container-fluid a{
     font-weight: 500;
@@ -7,10 +9,21 @@
 }
 
 .tarjeta{
-    color: #707070;  
+    color: #707070;
+    font-weight: 300;
+    border-color: #DDDDDD; 
+    
+}
+.card-img-top{
+    height: 15rem;
 }
 .title{
     color: #212529;
+    font-weight: 300;
+}
+
+#floatingInput{
+    color:#707070 ;
 }
 
 .titulo-formulario{
@@ -20,7 +33,6 @@
     font-weight: 500;  
 }
 
-
 .boton button{
     color:#212529 ;
     font-weight: 500;
@@ -28,12 +40,20 @@
 .cuppon{
     font-weight: 800;
 }
+
 .precio-verde{
     color: #28a745;
     font-size:larger;
+    font-weight: 500;
 }
 .precio-gris{
-    font-size:medium;
+    color: #707070;
+    font-size:medium; 
+    font-weight: 300;
+}
+.footer-info, i{
+    font-weight: 300;
+    color:#707070 ;
 }
 
 
