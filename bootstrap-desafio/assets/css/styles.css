@@ -2,6 +2,10 @@
     font-family: 'Roboto';
     margin: 0;
     padding: 0;
+    
+}
+body{
+    background-color: #ffffff;
 }
 .container-fluid a{
     font-weight: 500;
@@ -22,13 +26,15 @@
     font-weight: 300;
 }
 
-#floatingInput{
+#floatingInput , #floatingPassword{
     color:#707070 ;
+    font-weight: 300;
+    border-color:#DDDDDD ;
 }
 
 .titulo-formulario{
     text-align: center;
-    color: #fff;
+    color: #ffffff;
     font-size: larger;
     font-weight: 500;  
 }
